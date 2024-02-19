@@ -101,6 +101,8 @@ Accuracy Score for XGBoost is 0.7938877043354655
 
 Accuracy Score for Decision Tree is 0.7341862117981521
 
+The most accurate model was the Logistic Regressor, with an accuracy of 0.80, the least was the decision tree with an accuracy of 0.73
+
 Metrics that are most important for the problem, based on the models;
 Positive Correlations with Churn: The features below have a weak positive correlation with customer churn; MonthlyCharges: 0.19 SeniorCitizen: 0.15 PaperlessBilling: 0.19 PaymentMethod (Electronic check): 0.11
 
