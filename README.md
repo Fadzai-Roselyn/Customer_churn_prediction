@@ -83,11 +83,11 @@ All the other charts, diagrams and plots are included in the Jupyter notebook at
 
 CLASSIFIERS:
 
-Logistic Regressor
-XGBoost Classifier 
-Random Forest Classifier
-Decision Tree Classifier
-CatBoost Classifier
+<li>Logistic Regressor
+<li>XGBoost Classifier 
+<li>Random Forest Classifier
+<li>Decision Tree Classifier
+<li>CatBoost Classifier
 
 Accuracy scores;
 Accuracy Score for Logistic Regressor is 0.8024164889836531 
