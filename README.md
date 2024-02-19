@@ -90,6 +90,7 @@ CLASSIFIERS:
 <li>CatBoost Classifier
 
 Accuracy scores;
+
 Accuracy Score for Logistic Regressor is 0.8024164889836531 
 
 Accuracy Score for Random Forest is 0.7917555081734187 
