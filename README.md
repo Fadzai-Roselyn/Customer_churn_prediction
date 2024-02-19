@@ -114,4 +114,4 @@ The business should optimize for True Positives, thereby minimizing false negati
 The business shouls also aim to optimizing for False Negatives, which would minimize False Positives. It would not be economic to direct marketing man power and costs to attract customers who would have stayed anyway.
 
 ## Future research
-The importance of features and metrics that are important for these predictions may differ based on the model and other factors. It would be interesting to consider using machine learning algorithms for a more thorough evaluation of feature importance.
+The importance of features and metrics that are important for these predictions may differ based on the model and other factors. It would be interesting to use machine learning algorithms for a more thorough evaluation of feature importance.
