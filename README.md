@@ -114,7 +114,7 @@ These features have a notable impact on customer churn prediction. Notably, long
 ## To note
 The business should optimize for True Positives, thereby minimizing false negatives. If there are a lot of false negatives, the business will fail to identify customers that may actually churn, inturn losing out on potential revenue. Minimizing false negatives allows the business to target customers that are likely to churn and enticing them to stay.
 
-The business shouls also aim to optimizing for False Negatives, which would minimize False Positives. It would not be economic to direct marketing man power and costs to attract customers who would have stayed anyway.
+The business should also aim to optimizing for False Negatives, which would minimize False Positives. It would not be economic to direct marketing manpower and costs to attract customers who would have stayed anyway.
 
 ## Future research
 The importance of features and metrics that are important for these predictions may differ based on the model and other factors. It would be interesting to use machine learning algorithms for a more thorough evaluation of feature importance.
