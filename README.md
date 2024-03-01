@@ -75,7 +75,7 @@ Customers that did not have the option of tech support were very likely to churn
 
 The relationship between customer churn and movie and TV streaming was such that for both forms of streaming, the churning rate was almost half of the retention rate.
 
-It was interesting to note that there were contract types as follows; month to month, one year and two years. The less the contract duration, the greater the churning statistics. The two year contracy had an extremely low customer churn rate.
+It was interesting to note that there were contract types as follows; month to month, one year and two years. The less the contract duration, the greater the churning statistics. The two years contract had an extremely low customer churn rate.
 
 The relationship between churn and payment method was also interesting. The methods were Electronic check, Mailed check, Bank transfer (automatic) and Credit card (automatic). For all the other methods, customer churn was around +/-20%, while for Electronic check, churn was around 45%. This means the company has to look at providing alternatives to Electronic check payment method.
 
