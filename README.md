@@ -43,7 +43,7 @@ A graph that shows this information is attached below;
 
 ![alt text](image-1.png)
 
-Customer churn by senior citizenship
+Customer churn by senior citizenship;
 About 77% of non senior citizens were retained while 23% churned. For senior citizens, about 57% were retained while 43% churned. This shows that senior citizens are more likely to churn compared to non senior citizens. A visualizatiion of this is shown below;
 
 ![alt text](image-2.png)
