@@ -9,7 +9,7 @@ The project seeks to provide a solution that empowers ConnectTel with actionable
 
 ## Process
 <li> Problem definition
-<li> EDA using Python, to understand the data summary and structure, identify patterns, detect anomalies, and create visualizations such as  statistical graphics, charts, and descriptive statistics tables
+<li> EDA using Python; to understand the data summary and structure, identify patterns, detect anomalies, and create visualizations such as  statistical graphics, charts, and descriptive statistics tables
 <li> Feature engineering; encoding categorical variables
 <li> Model selection, training and validation
 <li> Model evaluation
